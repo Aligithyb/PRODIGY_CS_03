@@ -1,6 +1,3 @@
-//
-// Created by Asus on 8/13/2024.
-//
 
 #include "checker.h"
 
